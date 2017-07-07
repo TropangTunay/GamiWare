@@ -8,6 +8,7 @@
 		
 		public function functionality() {
 			// constructor code
+			stop();
 		}
 		
 	}
